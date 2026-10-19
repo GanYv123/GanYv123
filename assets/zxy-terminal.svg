@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="248" viewBox="0 0 900 248" role="img" aria-labelledby="title desc">
+<title id="title">ZXY — C++ Developer</title><desc id="desc">A midnight-purple terminal with an original pixel cat. Code, anime and games. Still a work in progress.</desc>
+<rect x="1" y="1" width="898" height="246" rx="18" fill="#101525" stroke="#34334f"/>
+<path d="M1 43H899" stroke="#34334f"/><g fill="#746894"><circle cx="25" cy="23" r="4"/><circle cx="41" cy="23" r="4"/></g><circle cx="57" cy="23" r="4" fill="#7bdacc"/>
+<text x="82" y="28" fill="#a5a0b9" font-family="monospace" font-size="12" letter-spacing="2">ZXY / PERSONAL SPACE</text><text x="870" y="28" text-anchor="end" fill="#a5a0b9" font-family="monospace" font-size="12">~/hello</text>
+<text x="38" y="130" fill="#e8e8f4" font-family="monospace" font-size="76" font-weight="700" letter-spacing="-3">ZXY<tspan fill="#a79aed">_</tspan></text>
+<text x="41" y="165" fill="#b7aaf1" font-family="monospace" font-size="20">C++ Developer</text>
+<text x="41" y="208" fill="#9da6bc" font-family="monospace" font-size="13">code / anime / games</text><path d="M41 224H378" stroke="#34334f"/>
+<g transform="translate(640 70) scale(7)" shape-rendering="crispEdges"><path d="M2 1H5V4H14V1H17V5H19V16H17V19H2V16H0V5H2Z" fill="#b4a6ed"/><path d="M3 3H4V6H2V5H3ZM15 3H16V5H17V6H15Z" fill="#575275"/><path d="M4 8H6V10H4ZM13 8H15V10H13Z" fill="#101525"/><path d="M8 11H11V12H10V14H9V12H8Z" fill="#101525"/><path d="M2 12H5V13H2ZM14 12H17V13H14Z" fill="#7bdacc"/><path d="M4 18H7V20H4ZM12 18H15V20H12Z" fill="#dbd6ee"/></g>
+<path d="M609 105h12m-6-6v12M807 165h14m-7-7v14" stroke="#7bdacc" opacity=".65"/><rect x="822" y="76" width="5" height="5" fill="#a79aed"/><rect x="600" y="192" width="4" height="4" fill="#a79aed"/>
+</svg>

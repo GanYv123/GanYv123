@@ -1,36 +1,41 @@
 <p align="center">
-  <img src="./assets/zxy-banner.png" alt="Hello, I'm ZXY. C++ Developer. Code, anime and games." width="100%">
+  <img src="./assets/zxy-terminal.svg" alt="ZXY — C++ Developer. Code, anime and games." width="100%">
+</p>
+
+<p align="center">
+  <samp><a href="#about">/ about</a> &nbsp;·&nbsp; <a href="#stack">/ stack</a> &nbsp;·&nbsp; <a href="#now">/ now</a></samp>
 </p>
 
 <p align="center">
   <samp>「まだ、開発途中。」</samp><br>
-  <sub>代码在迭代，我也是。 · Still a work in progress.</sub>
+  <sub>代码在迭代，我也是。</sub>
 </p>
 
-## 01 / About Me
+### About
 
 一个喜欢折腾软件、工具和新技术的普通开发者。
 
 Building things, learning things, occasionally breaking things.
 
-## 02 / Tech Stack
+```cpp
+while (curious) {
+    learn();
+    build();
+    play();
+}
+```
 
-`C++` · `Linux` · `Windows` · `CMake` · `Git`
+### Stack
 
-## 03 / Currently Exploring
+`C++` &nbsp; `Linux` &nbsp; `Windows` &nbsp; `CMake` &nbsp; `Git`
 
-网络编程、开发工具，以及 AI 辅助开发。
+### Now
 
-Networking · Developer Tools · AI-assisted Development
-
-## 04 / Beyond the Terminal
-
-Anime · Games · Music
-
-写代码之外，也给喜欢的事留一点时间。
+- **Exploring** — 网络编程、开发工具与 AI 辅助开发
+- **Off-screen** — Anime · Games · Music
 
 ---
 
 <p align="center">
-  <sub>Find me on <a href="https://github.com/GanYv123">GitHub</a> · ZXY / PERSONAL SPACE</sub>
+  <sub>Stay curious. Keep building. &nbsp; / &nbsp; <a href="https://github.com/GanYv123">@GanYv123</a></sub>
 </p>
